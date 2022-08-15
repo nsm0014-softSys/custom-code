@@ -1,0 +1,10 @@
+throttle_ctrl_node:
+  ros__parameters:
+    constant_throttle_value: 0.1 # constant throttle parameter
+    min_throttle: 0.25 # minimum throttle the car can choose
+    throttle_switch: 1 # auto throttle on/off (default = on)
+
+
+# 300, 325
+
+# 337 backwards

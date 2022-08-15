@@ -1,0 +1,11 @@
+pid_ctrl:
+  ros__parameters:
+    look_ahead_index: 1 # ranges from 0 - 8, the point ahead the cars looks at
+    derivative: 0.02 # derivative controller gain
+    integral: 0.0 # integral controller gain
+    proportional: 0.925 # proportional controller gain
+    anything: "something" #hello
+
+# 300, 325
+
+# 337 backwards
